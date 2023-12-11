@@ -11,3 +11,7 @@ body {
 .form {
     border: 5px black dashed;
 }
+
+.button {
+    text-align: center;
+}

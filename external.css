@@ -15,16 +15,12 @@ body {
     justify-items: center;
 }
 
-form {
-    border: 5px black dashed;
-}
 
 .button {
     text-align: center;
 }
 
 .painting {
-    border: 5px black dashed;
     height: fit-content;
     width: fit-content;
 }
@@ -34,8 +30,4 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-.heading {
-    border: 5px black dashed;
 }

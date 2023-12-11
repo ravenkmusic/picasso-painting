@@ -7,3 +7,7 @@ body {
     gap: 10px;
     justify-items: center;
 }
+
+.form {
+    border: 5px black dashed;
+}
